@@ -1,0 +1,2 @@
+((masterpiece,best quality)), 1girl, (buttocks), closeup, upskirt, no panties
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10, Seed: 2772556587, Size: 512x512, Model hash: a074b8864e, Model: CounterfeitV25_25
